@@ -1,0 +1,7 @@
+bringup/joy_stick/gta_joy_trans
+/home/walkie/walkie_ws/devel/.private/gta_joy_trans/cmake.lock /home/walkie/walkie_ws/devel/./cmake.lock
+/home/walkie/walkie_ws/devel/.private/gta_joy_trans/share/gta_joy_trans/cmake/gta_joy_transConfig-version.cmake /home/walkie/walkie_ws/devel/share/gta_joy_trans/cmake/gta_joy_transConfig-version.cmake
+/home/walkie/walkie_ws/devel/.private/gta_joy_trans/share/gta_joy_trans/cmake/gta_joy_transConfig.cmake /home/walkie/walkie_ws/devel/share/gta_joy_trans/cmake/gta_joy_transConfig.cmake
+/home/walkie/walkie_ws/devel/.private/gta_joy_trans/lib/gta_joy_trans/gta_joy_trans.py /home/walkie/walkie_ws/devel/lib/gta_joy_trans/gta_joy_trans.py
+/home/walkie/walkie_ws/devel/.private/gta_joy_trans/lib/gta_joy_trans/cmake.lock /home/walkie/walkie_ws/devel/lib/gta_joy_trans/cmake.lock
+/home/walkie/walkie_ws/devel/.private/gta_joy_trans/lib/pkgconfig/gta_joy_trans.pc /home/walkie/walkie_ws/devel/lib/pkgconfig/gta_joy_trans.pc

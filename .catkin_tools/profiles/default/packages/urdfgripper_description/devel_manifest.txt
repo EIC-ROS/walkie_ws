@@ -1,0 +1,5 @@
+bringup/urdfgripper_description
+/home/walkie/walkie_ws/devel/.private/urdfgripper_description/cmake.lock /home/walkie/walkie_ws/devel/./cmake.lock
+/home/walkie/walkie_ws/devel/.private/urdfgripper_description/share/urdfgripper_description/cmake/urdfgripper_descriptionConfig.cmake /home/walkie/walkie_ws/devel/share/urdfgripper_description/cmake/urdfgripper_descriptionConfig.cmake
+/home/walkie/walkie_ws/devel/.private/urdfgripper_description/share/urdfgripper_description/cmake/urdfgripper_descriptionConfig-version.cmake /home/walkie/walkie_ws/devel/share/urdfgripper_description/cmake/urdfgripper_descriptionConfig-version.cmake
+/home/walkie/walkie_ws/devel/.private/urdfgripper_description/lib/pkgconfig/urdfgripper_description.pc /home/walkie/walkie_ws/devel/lib/pkgconfig/urdfgripper_description.pc

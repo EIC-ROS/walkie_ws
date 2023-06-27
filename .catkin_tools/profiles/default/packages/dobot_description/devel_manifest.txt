@@ -1,0 +1,5 @@
+bringup/CR_ROS/dobot_description
+/home/walkie/walkie_ws/devel/.private/dobot_description/cmake.lock /home/walkie/walkie_ws/devel/./cmake.lock
+/home/walkie/walkie_ws/devel/.private/dobot_description/share/dobot_description/cmake/dobot_descriptionConfig.cmake /home/walkie/walkie_ws/devel/share/dobot_description/cmake/dobot_descriptionConfig.cmake
+/home/walkie/walkie_ws/devel/.private/dobot_description/share/dobot_description/cmake/dobot_descriptionConfig-version.cmake /home/walkie/walkie_ws/devel/share/dobot_description/cmake/dobot_descriptionConfig-version.cmake
+/home/walkie/walkie_ws/devel/.private/dobot_description/lib/pkgconfig/dobot_description.pc /home/walkie/walkie_ws/devel/lib/pkgconfig/dobot_description.pc

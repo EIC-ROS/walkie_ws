@@ -1,0 +1,6 @@
+bringup/joy_stick/joystick_drivers-main/spacenav_node
+/home/walkie/walkie_ws/devel/.private/spacenav_node/cmake.lock /home/walkie/walkie_ws/devel/./cmake.lock
+/home/walkie/walkie_ws/devel/.private/spacenav_node/share/spacenav_node/cmake/spacenav_nodeConfig-version.cmake /home/walkie/walkie_ws/devel/share/spacenav_node/cmake/spacenav_nodeConfig-version.cmake
+/home/walkie/walkie_ws/devel/.private/spacenav_node/share/spacenav_node/cmake/spacenav_nodeConfig.cmake /home/walkie/walkie_ws/devel/share/spacenav_node/cmake/spacenav_nodeConfig.cmake
+/home/walkie/walkie_ws/devel/.private/spacenav_node/lib/spacenav_node/spacenav_node /home/walkie/walkie_ws/devel/lib/spacenav_node/spacenav_node
+/home/walkie/walkie_ws/devel/.private/spacenav_node/lib/pkgconfig/spacenav_node.pc /home/walkie/walkie_ws/devel/lib/pkgconfig/spacenav_node.pc

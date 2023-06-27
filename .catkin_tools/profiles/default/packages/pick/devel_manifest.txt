@@ -1,0 +1,6 @@
+manipulation/pick
+/home/walkie/walkie_ws/devel/.private/pick/cmake.lock /home/walkie/walkie_ws/devel/./cmake.lock
+/home/walkie/walkie_ws/devel/.private/pick/share/pick/cmake/pickConfig-version.cmake /home/walkie/walkie_ws/devel/share/pick/cmake/pickConfig-version.cmake
+/home/walkie/walkie_ws/devel/.private/pick/share/pick/cmake/pickConfig.cmake /home/walkie/walkie_ws/devel/share/pick/cmake/pickConfig.cmake
+/home/walkie/walkie_ws/devel/.private/pick/lib/pick/pickmain /home/walkie/walkie_ws/devel/lib/pick/pickmain
+/home/walkie/walkie_ws/devel/.private/pick/lib/pkgconfig/pick.pc /home/walkie/walkie_ws/devel/lib/pkgconfig/pick.pc

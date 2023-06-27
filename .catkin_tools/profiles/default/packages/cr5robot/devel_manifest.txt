@@ -1,0 +1,2 @@
+bringup/CR_ROS/cr5robot
+/home/walkie/walkie_ws/devel/.private/cr5robot/cmake.lock /home/walkie/walkie_ws/devel/./cmake.lock

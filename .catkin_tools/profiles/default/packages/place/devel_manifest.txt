@@ -1,0 +1,7 @@
+manipulation/place
+/home/walkie/walkie_ws/devel/.private/place/cmake.lock /home/walkie/walkie_ws/devel/./cmake.lock
+/home/walkie/walkie_ws/devel/.private/place/share/place/cmake/placeConfig-version.cmake /home/walkie/walkie_ws/devel/share/place/cmake/placeConfig-version.cmake
+/home/walkie/walkie_ws/devel/.private/place/share/place/cmake/placeConfig.cmake /home/walkie/walkie_ws/devel/share/place/cmake/placeConfig.cmake
+/home/walkie/walkie_ws/devel/.private/place/lib/place/placemain /home/walkie/walkie_ws/devel/lib/place/placemain
+/home/walkie/walkie_ws/devel/.private/place/lib/place/dimensioncal /home/walkie/walkie_ws/devel/lib/place/dimensioncal
+/home/walkie/walkie_ws/devel/.private/place/lib/pkgconfig/place.pc /home/walkie/walkie_ws/devel/lib/pkgconfig/place.pc
