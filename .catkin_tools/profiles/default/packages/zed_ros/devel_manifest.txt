@@ -1,0 +1,2 @@
+manipulation/out_source/zed-ros-wrapper/zed_ros
+/home/walkie/walkie_ws/devel/.private/zed_ros/cmake.lock /home/walkie/walkie_ws/devel/./cmake.lock
